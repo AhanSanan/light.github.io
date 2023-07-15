@@ -1,0 +1,18 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+.bg-grey{
+    background: rgb(33, 33, 33);
+}
+
+@font-face {
+    font-family: myFont;
+    src: url(fsb.ttf.otf);
+}
+
+.name{
+    font-family: myFont;
+}
